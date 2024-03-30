@@ -1,0 +1,7 @@
+/mnt/c/Users/Matthew/Documents/UF-Stuff/Spring-2024/E-SWE/ESEP9/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.deps.json
+/mnt/c/Users/Matthew/Documents/UF-Stuff/Spring-2024/E-SWE/ESEP9/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.runtimeconfig.json
+/mnt/c/Users/Matthew/Documents/UF-Stuff/Spring-2024/E-SWE/ESEP9/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.pdb
+/mnt/c/Users/Matthew/Documents/UF-Stuff/Spring-2024/E-SWE/ESEP9/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.Core.dll
+/mnt/c/Users/Matthew/Documents/UF-Stuff/Spring-2024/E-SWE/ESEP9/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/mnt/c/Users/Matthew/Documents/UF-Stuff/Spring-2024/E-SWE/ESEP9/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Newtonsoft.Json.dll
+/mnt/c/Users/Matthew/Documents/UF-Stuff/Spring-2024/E-SWE/ESEP9/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.dll
