@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tnFLrfJ45FqNM0wN1j5i7JisJ35cUzY2zQUeHr2K8hyhsdM44c7btFrz9WD07s1QHVEkkYB6bVwIoXhlJF8G8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matthew\\Documents\\UF-Stuff\\Spring-2024\\E-SWE\\ESEP9\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matthew\\.nuget\\packages\\amazon.lambda.core\\2.2.0\\amazon.lambda.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\Matthew\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.1\\amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",
+    "C:\\Users\\Matthew\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.1\\microsoft.netcore.app.crossgen2.win-x64.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
